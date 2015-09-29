@@ -4,7 +4,7 @@
 #
 Name     : rubygem-mongoid
 Version  : 4.0.2
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/mongoid-4.0.2.gem
 Source0  : https://rubygems.org/downloads/mongoid-4.0.2.gem
 Summary  : No detailed summary available
